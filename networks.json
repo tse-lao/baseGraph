@@ -1,0 +1,8 @@
+{
+  "base-testnet": {
+    "Contract": {
+      "address": "0xCF0374a618403D2eF29F100fb1fF2Ca16cc3eb95",
+      "startBlock": 8157766
+    }
+  }
+}
